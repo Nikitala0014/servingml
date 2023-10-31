@@ -1,0 +1,3 @@
+docker build -t servingml_server .
+docker run -d -v /var/run/docker.sock:/var/run/docker.sock -p 8000:8000 servingml_server
+docker cp container_name:/usr/src/app/docker_build_log.txt ./docker_build_log.txt

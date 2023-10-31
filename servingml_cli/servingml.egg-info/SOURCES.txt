@@ -1,0 +1,10 @@
+build.py
+cli.py
+deploy.py
+setup.py
+servingml.egg-info/PKG-INFO
+servingml.egg-info/SOURCES.txt
+servingml.egg-info/dependency_links.txt
+servingml.egg-info/entry_points.txt
+servingml.egg-info/requires.txt
+servingml.egg-info/top_level.txt
